@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Image Of The WebSite..
+![](img/img.JPG)
+
+![](img/img2.JPG)
+
+This Covid Tracker App is developed with react-js. And one most important thing that we add in the project is covid API.And the librarys we have used for the project is react-countup,react-chartjs-2,classnames,axios,chart.js,@material-ui/core.And the site has been hosted in Netlify
+
+
+[Link Of The Site](https://apc-covid-tracker.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
